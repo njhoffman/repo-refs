@@ -1,0 +1,18 @@
+[submodule "ricing/vicyos-build-folder"]
+	path = ricing/vicyos-build-folder
+	url = https://github.com/felipendc/vicyos-build-folder
+[submodule "ricing/ZenithDS"]
+	path = ricing/ZenithDS
+	url = https://github.com/ZenithDS/dotconfig
+[submodule "ricing/eww-widgets"]
+	path = ricing/eww-widgets
+	url = https://github.com/saimoomedits/eww-widgets
+[submodule "ricing/Gbox4-startup"]
+	path = ricing/Gbox4-startup
+	url = https://github.com/Gbox4/dotfiles
+[submodule "ricing/polybar-powerline"]
+	path = ricing/polybar-powerline
+	url = https://github.com/danielnehrig/polybar-powerline
+[submodule "ricing/polybar-themes"]
+	path = ricing/polybar-themes
+	url = https://github.com/adi1090x/polybar-themes
