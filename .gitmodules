@@ -16,3 +16,9 @@
 [submodule "ricing/polybar-themes"]
 	path = ricing/polybar-themes
 	url = https://github.com/adi1090x/polybar-themes
+[submodule "ntangle.nvim"]
+	path = ntangle.nvim
+	url = https://github.com/jbyuki/ntangle.nvim
+[submodule "instant.nvim"]
+	path = instant.nvim
+	url = https://github.com/jbyuki/instant.nvim
