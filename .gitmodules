@@ -22,3 +22,9 @@
 [submodule "instant.nvim"]
 	path = instant.nvim
 	url = https://github.com/jbyuki/instant.nvim
+[submodule "shownotes"]
+	path = shownotes
+	url = https://github.com/gotbletu/shownotes
+[submodule "zinit-configs"]
+	path = zinit-configs
+	url = https://github.com/zdharma-continuum/zinit-configs
