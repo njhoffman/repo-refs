@@ -28,3 +28,6 @@
 [submodule "zinit-configs"]
 	path = zinit-configs
 	url = https://github.com/zdharma-continuum/zinit-configs
+[submodule "misc/terminaldweller-scripts"]
+	path = misc/terminaldweller-scripts
+	url = https://github.com/terminaldweller/scripts
