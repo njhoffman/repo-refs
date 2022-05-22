@@ -31,3 +31,18 @@
 [submodule "misc/terminaldweller-scripts"]
 	path = misc/terminaldweller-scripts
 	url = https://github.com/terminaldweller/scripts
+[submodule "zsh-plugins/zsh-vi-mode"]
+	path = zsh-plugins/zsh-vi-mode
+	url = https://github.com/jeffreytse/zsh-vi-mode
+[submodule "nvim-configs/0xsamrath-dotfiles"]
+	path = nvim-configs/0xsamrath-dotfiles
+	url = https://github.com/0xsamrath/.dotfiles
+[submodule "nvim-configs/kyoto.nvim"]
+	path = nvim-configs/kyoto.nvim
+	url = https://github.com/0xsamrath/kyoto.nvim
+[submodule "nvim-configs/catppuccin-theme"]
+	path = nvim-configs/catppuccin-theme
+	url = https://github.com/catppuccin/nvim
+[submodule "nvim-configs/tokyonight.nvim"]
+	path = nvim-configs/tokyonight.nvim
+	url = https://github.com/folke/tokyonight.nvim
