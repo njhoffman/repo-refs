@@ -46,3 +46,15 @@
 [submodule "nvim-configs/tokyonight.nvim"]
 	path = nvim-configs/tokyonight.nvim
 	url = https://github.com/folke/tokyonight.nvim
+[submodule "misc/systemd-dotfiles"]
+	path = misc/systemd-dotfiles
+	url = https://github.com/soystemd/dotfiles
+[submodule "nvim-configs/yoda-dotfiles"]
+	path = nvim-configs/yoda-dotfiles
+	url = https://github.com/YodaEmbedding/dotfiles
+[submodule "i3scripts/dopamine"]
+	path = i3scripts/dopamine
+	url = https://github.com/EllaTheCat/dopamine-2020
+[submodule "nvim-configs/ray-x"]
+	path = nvim-configs/ray-x
+	url = https://github.com/ray-x/nvim
