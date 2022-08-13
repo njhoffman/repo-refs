@@ -58,3 +58,6 @@
 [submodule "nvim-configs/ray-x"]
 	path = nvim-configs/ray-x
 	url = https://github.com/ray-x/nvim
+[submodule "nvim-configs/nvim-dotfiles-kitty"]
+	path = nvim-configs/nvim-dotfiles-kitty
+	url = https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty
