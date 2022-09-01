@@ -57,9 +57,6 @@ local on_attach = function(client, bufnr)
   if vim.fn.has('nvim-0.6.0') > 0 then
     buf_set_keymap('n', '[d', '<cmd>lua vim.diagnostic.goto_prev()<CR>', opts)
     buf_set_keymap('n', ']d', '<cmd>lua vim.diagnostic.goto_next()<CR>', opts)
-  else
-    buf_set_keymap('n', '[d', '<cmd>lua vim.lsp.diagnostic.goto_prev()<CR>', opts)
-    buf_set_keymap('n', ']d', '<cmd>lua vim.lsp.diagnostic.goto_next()<CR>', opts)
   end
   --buf_set_keymap('n', '<space>wa', '<cmd>lua vim.lsp.buf.add_workspace_folder()<CR>', opts)
   --buf_set_keymap('n', '<space>wr', '<cmd>lua vim.lsp.buf.remove_workspace_folder()<CR>', opts)
@@ -220,26 +217,11 @@ if vim.fn.has('nvim-0.6.0') > 0 then
       end,
     }
   })
-  _G.LspDiagnosticsShowPopup = function()
-    return vim.diagnostic.open_float(0, { scope = "cursor" })
-  end
-else -- neovim 0.5.0
-  -- @see :help lsp-handler-configuration
-  vim.lsp.handlers["textDocument/publishDiagnostics"] = vim.lsp.with(
-      vim.lsp.diagnostic.on_publish_diagnostics, {
-        virtual_text = false,     -- disable virtual text
-        signs = true,             -- show signs
-        update_in_insert = false, -- delay update diagnostics
-        -- display_diagnostic_autocmds = { "InsertLeave" },
-      }
-    )
-  _G.LspDiagnosticsShowPopup = function()
-    ---@diagnostic disable-next-line: deprecated
-    return vim.lsp.diagnostic.show_line_diagnostics({
-      focusable = false,
-      border = 'single',
-    })
-  end
+end
+
+
+_G.LspDiagnosticsShowPopup = function()
+  return vim.diagnostic.open_float(0, { scope = "cursor" })
 end
 
 -- Show diagnostics in a pop-up window on hover
@@ -258,6 +240,7 @@ _G.LspDiagnosticsPopupHandler = function()
     end
   end
 end
+
 vim.cmd [[
 augroup LSPDiagnosticsOnHover
   autocmd!

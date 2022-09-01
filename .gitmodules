@@ -61,3 +61,6 @@
 [submodule "nvim-configs/nvim-dotfiles-kitty"]
 	path = nvim-configs/nvim-dotfiles-kitty
 	url = https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty
+[submodule "nvim-configs/bluz71"]
+	path = nvim-configs/bluz71
+	url = https://github.com/bluz71/dotfiles
