@@ -102,7 +102,7 @@ local builtin_lsp_servers = {
   'pyright',
   'vimls',
   'tsserver',
-  'sumneko_lua',
+    'sumneko_lua',
 }
 -- Optional and additional LSP setup options other than (common) on_attach, capabilities, etc.
 -- @see(config): https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md
