@@ -64,3 +64,6 @@
 [submodule "nvim-configs/bluz71"]
 	path = nvim-configs/bluz71
 	url = https://github.com/bluz71/dotfiles
+[submodule "nvim-configs/LazyVim"]
+	path = nvim-configs/LazyVim
+	url = https://github.com/LazyVim/LazyVim
