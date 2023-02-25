@@ -67,3 +67,21 @@
 [submodule "nvim-configs/LazyVim"]
 	path = nvim-configs/LazyVim
 	url = https://github.com/LazyVim/LazyVim
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/AHaymond/dotfiles
+[submodule "noice.nvim"]
+	path = noice.nvim
+	url = https://github.com/folke/noice.nvim
+[submodule "nvim-configs/cseickel"]
+	path = nvim-configs/cseickel
+	url = https://github.com/cseickel/dotfiles
+[submodule "nvim-configs/rebelot"]
+	path = nvim-configs/rebelot
+	url = https://github.com/rebelot/dotfiles
+[submodule "nvim-configs/Perigord-Nvim"]
+	path = nvim-configs/Perigord-Nvim
+	url = https://github.com/Trouble-Truffle/Perigord-Nvim
+[submodule "nvim-configs/lazy-nvim-config"]
+	path = nvim-configs/lazy-nvim-config
+	url = https://github.com/ziontee113/lazy-nvim-config
