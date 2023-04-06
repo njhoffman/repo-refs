@@ -67,8 +67,8 @@
 [submodule "nvim-configs/LazyVim"]
 	path = nvim-configs/LazyVim
 	url = https://github.com/LazyVim/LazyVim
-[submodule "dotfiles"]
-	path = dotfiles
+[submodule "nvim-configs/dotfiles"]
+	path = nvim-configs/AHaymond-dots 
 	url = https://github.com/AHaymond/dotfiles
 [submodule "noice.nvim"]
 	path = noice.nvim
