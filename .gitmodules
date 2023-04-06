@@ -85,3 +85,6 @@
 [submodule "nvim-configs/lazy-nvim-config"]
 	path = nvim-configs/lazy-nvim-config
 	url = https://github.com/ziontee113/lazy-nvim-config
+[submodule "nvim-configs/ditsuke-dots"]
+	path = nvim-configs/ditsuke-dots
+	url = git@github.com:/ditsuke/dotfiles
