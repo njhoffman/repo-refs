@@ -1,0 +1,71 @@
+.DS_Store
+.gitconfig
+Thumbs.db
+.project
+$*
+debug.txt
+
+# Ignore bundler config
+.bundle/
+
+# Ignore the default SQLite database
+db/*.sqlite3
+
+# Ignore all logfiles and tempfiles.
+log/*.log
+tmp/
+
+# Ignore other unneeded files.
+doc/
+*.swp
+*~
+
+disable_ssl.yml
+
+public/mt
+
+notes/
+.hubot_history
+aws_creds
+.envrc
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+tags
+
+!vendor/*.com
