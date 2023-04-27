@@ -85,3 +85,15 @@
 [submodule "nvim-configs/ditsuke-dots"]
 	path = nvim-configs/ditsuke-dots
 	url = git@github.com:/ditsuke/dotfiles
+[submodule "nvim-configs/JoseepAlviste"]
+	path = nvim-configs/JoseepAlviste
+	url = git@github.com:JoosepAlviste/dotfiles.git
+[submodule "rofi-themes/Poetician"]
+	path = rofi-themes/Poetician
+	url = https://gitlab.com/Poetician/rofi.git
+[submodule "rofi-themes/adi1090x"]
+	path = rofi-themes/adi1090x
+	url = https://github.com/adi1090x/rofi
+[submodule "rofi-themes/newmanls"]
+	path = rofi-themes/newmanls
+	url = https://github.com/newmanls/rofi-themes-collection
