@@ -97,3 +97,9 @@
 [submodule "rofi-themes/newmanls"]
 	path = rofi-themes/newmanls
 	url = https://github.com/newmanls/rofi-themes-collection
+[submodule "nvim-configs/vim-polyglot"]
+	path = nvim-configs/vim-polyglot
+	url = git@github.com:sheerun/vim-polyglot
+[submodule "nvim-configs/ofseed"]
+	path = nvim-configs/ofseed
+	url = git@github.com:ofseed/nvim
