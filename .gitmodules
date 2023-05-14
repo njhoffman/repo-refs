@@ -103,3 +103,6 @@
 [submodule "nvim-configs/ofseed"]
 	path = nvim-configs/ofseed
 	url = git@github.com:ofseed/nvim
+[submodule "nvim-configs/Cassin01"]
+	path = nvim-configs/Cassin01
+	url = git@github.com:Cassin01/nvim-conf
