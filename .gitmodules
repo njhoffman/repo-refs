@@ -106,3 +106,9 @@
 [submodule "nvim-configs/Cassin01"]
 	path = nvim-configs/Cassin01
 	url = git@github.com:Cassin01/nvim-conf
+[submodule "nvim-configs/NvChad"]
+	path = nvim-configs/NvChad
+	url = git@github.com:/NvChad/NvChad
+[submodule "nvim-configs/LunarVim"]
+	path = nvim-configs/LunarVim
+	url = git@github.com:/LunarVim/LunarVim
