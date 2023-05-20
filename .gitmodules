@@ -112,3 +112,6 @@
 [submodule "nvim-configs/LunarVim"]
 	path = nvim-configs/LunarVim
 	url = git@github.com:/LunarVim/LunarVim
+[submodule "nvim-configs/AstroNvim"]
+	path = nvim-configs/AstroNvim
+	url = git@github.com:/AstroNvim/AstroNvim
