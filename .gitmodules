@@ -115,3 +115,12 @@
 [submodule "nvim-configs/AstroNvim"]
 	path = nvim-configs/AstroNvim
 	url = git@github.com:/AstroNvim/AstroNvim
+[submodule "nvim-configs/ryuheechul"]
+	path = nvim-configs/ryuheechul
+	url = git@github.com:ryuheechul/dotfiles
+[submodule "nvim-configs/neovim-pde"]
+	path = nvim-configs/neovim-pde
+	url = git@github.com:alpha2phi/neovim-pde
+[submodule "nvim-configs/alpha2phi"]
+	path = nvim-configs/alpha2phi
+	url = git@github.com:alpha2phi/dotfiles
