@@ -124,3 +124,6 @@
 [submodule "nvim-configs/alpha2phi"]
 	path = nvim-configs/alpha2phi
 	url = git@github.com:alpha2phi/dotfiles
+[submodule "i3scripts/i3-parkinson"]
+	path = i3scripts/i3-parkinson
+	url = git@github.com:EllaTheCat/i3-parkinson
