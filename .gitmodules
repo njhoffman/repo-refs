@@ -127,3 +127,6 @@
 [submodule "i3scripts/i3-parkinson"]
 	path = i3scripts/i3-parkinson
 	url = git@github.com:EllaTheCat/i3-parkinson
+[submodule "nvim-configs/catgoose-nvim"]
+	path = nvim-configs/catgoose-nvim
+	url = git@github.com:/catgoose/nvim
