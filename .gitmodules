@@ -130,3 +130,6 @@
 [submodule "nvim-configs/catgoose-nvim"]
 	path = nvim-configs/catgoose-nvim
 	url = git@github.com:/catgoose/nvim
+[submodule "misc/ucollage"]
+	path = misc/ucollage
+	url = git@github.com:ckardaris/ucollage
