@@ -133,3 +133,12 @@
 [submodule "misc/ucollage"]
 	path = misc/ucollage
 	url = git@github.com:ckardaris/ucollage
+[submodule "nvim-configs/chrisgrieser"]
+	path = nvim-configs/chrisgrieser
+	url = git@github.com:/chrisgrieser/.config
+[submodule "nvim-configs/psyan3"]
+	path = nvim-configs/psyan3
+	url = git@github.com:pysan3/dotfiles
+[submodule "nvim-configs/shadovim"]
+	path = nvim-configs/shadovim
+	url = git@github.com:Shadorain/shadovim

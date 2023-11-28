@@ -4,7 +4,7 @@
 -------------
 -- See ~/.dotfiles/vim/plugins.vim for the Plug directives
 
-local lspconfig = require('lspconfig')
+  local lspconfig = require('lspconfig')
 
 -- lsp_signature
 -- https://github.com/ray-x/lsp_signature.nvim#full-configuration-with-default-values
