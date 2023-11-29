@@ -142,3 +142,6 @@
 [submodule "nvim-configs/shadovim"]
 	path = nvim-configs/shadovim
 	url = git@github.com:Shadorain/shadovim
+[submodule "nvim-configs/mfussenegger"]
+	path = nvim-configs/mfussenegger
+	url = https://github.com/mfussenegger/dotfiles
