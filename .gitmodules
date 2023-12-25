@@ -145,3 +145,6 @@
 [submodule "nvim-configs/mfussenegger"]
 	path = nvim-configs/mfussenegger
 	url = https://github.com/mfussenegger/dotfiles
+[submodule "nvim-configs/ecosse3"]
+	path = nvim-configs/ecosse3
+	url = git@github.com:ecosse3/nvim
