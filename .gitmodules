@@ -148,3 +148,6 @@
 [submodule "nvim-configs/ecosse3"]
 	path = nvim-configs/ecosse3
 	url = git@github.com:ecosse3/nvim
+[submodule "nvim-configs/mike325"]
+	path = nvim-configs/mike325
+	url = git@github.com:mike325/nvim
