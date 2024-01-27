@@ -151,3 +151,27 @@
 [submodule "nvim-configs/mike325"]
 	path = nvim-configs/mike325
 	url = git@github.com:mike325/nvim
+[submodule "nvim-configs/titan"]
+	path = nvim-configs/titan
+	url = git@github.com:skbolton/titan
+[submodule "nvim-configs/sebasruiz09"]
+	path = nvim-configs/sebasruiz09
+	url = git@github.com:sebasruiz09/nvim
+[submodule "nvim-configs/beauwilliams"]
+	path = nvim-configs/beauwilliams
+	url = git@github.com:beauwilliams/Dotfiles
+[submodule "nvim-configs/awesome-neovim"]
+	path = nvim-configs/awesome-neovim
+	url = git@github.com:Ultra-Code/awesome-neovim
+[submodule "docs/phelipetls-blog"]
+	path = docs/phelipetls-blog
+	url = git@github.com:phelipetls/blog
+[submodule "nvim-configs/augustocdias"]
+	path = nvim-configs/augustocdias
+	url = git@github.com:augustocdias/dotfiles
+[submodule "docs/awesome-neovim"]
+	path = docs/awesome-neovim
+	url = git@github.com:rockerBOO/awesome-neovim
+[submodule "nvim-configs/yutkat"]
+	path = nvim-configs/yutkat
+	url = git@github.com:yutkat/dotfiles
