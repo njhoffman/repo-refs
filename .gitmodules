@@ -1,87 +1,84 @@
 [submodule "ricing/vicyos-build-folder"]
 	path = ricing/vicyos-build-folder
-	url = https://github.com/felipendc/vicyos-build-folder
+	url = git@github.com:felipendc/vicyos-build-folder
 [submodule "ricing/ZenithDS"]
 	path = ricing/ZenithDS
-	url = https://github.com/ZenithDS/dotconfig
+	url = git@github.com:ZenithDS/dotconfig
 [submodule "ricing/eww-widgets"]
 	path = ricing/eww-widgets
-	url = https://github.com/saimoomedits/eww-widgets
+	url = git@github.com:saimoomedits/eww-widgets
 [submodule "ricing/Gbox4-startup"]
 	path = ricing/Gbox4-startup
-	url = https://github.com/Gbox4/dotfiles
+	url = git@github.com:Gbox4/dotfiles
 [submodule "ricing/polybar-powerline"]
 	path = ricing/polybar-powerline
-	url = https://github.com/danielnehrig/polybar-powerline
+	url = git@github.com:danielnehrig/polybar-powerline
 [submodule "ricing/polybar-themes"]
 	path = ricing/polybar-themes
-	url = https://github.com/adi1090x/polybar-themes
+	url = git@github.com:adi1090x/polybar-themes
 [submodule "ntangle.nvim"]
 	path = ntangle.nvim
-	url = https://github.com/jbyuki/ntangle.nvim
+	url = git@github.com:jbyuki/ntangle.nvim
 [submodule "instant.nvim"]
 	path = instant.nvim
-	url = https://github.com/jbyuki/instant.nvim
+	url = git@github.com:jbyuki/instant.nvim
 [submodule "shownotes"]
 	path = shownotes
-	url = https://github.com/gotbletu/shownotes
+	url = git@github.com:gotbletu/shownotes
 [submodule "zinit-configs"]
 	path = zinit-configs
-	url = https://github.com/zdharma-continuum/zinit-configs
+	url = git@github.com:zdharma-continuum/zinit-configs
 [submodule "misc/terminaldweller-scripts"]
 	path = misc/terminaldweller-scripts
-	url = https://github.com/terminaldweller/scripts
+	url = git@github.com:terminaldweller/scripts
 [submodule "zsh-plugins/zsh-vi-mode"]
 	path = zsh-plugins/zsh-vi-mode
-	url = https://github.com/jeffreytse/zsh-vi-mode
+	url = git@github.com:jeffreytse/zsh-vi-mode
 [submodule "nvim-configs/0xsamrath-dotfiles"]
 	path = nvim-configs/0xsamrath-dotfiles
-	url = https://github.com/0xsamrath/.dotfiles
+	url = git@github.com:0xsamrath/.dotfiles
 [submodule "nvim-configs/kyoto.nvim"]
 	path = nvim-configs/kyoto.nvim
-	url = https://github.com/0xsamrath/kyoto.nvim
+	url = git@github.com:0xsamrath/kyoto.nvim
 [submodule "nvim-configs/catppuccin-theme"]
 	path = nvim-configs/catppuccin-theme
-	url = https://github.com/catppuccin/nvim
+	url = git@github.com:catppuccin/nvim
 [submodule "nvim-configs/tokyonight.nvim"]
 	path = nvim-configs/tokyonight.nvim
-	url = https://github.com/folke/tokyonight.nvim
-[submodule "misc/systemd-dotfiles"]
-	path = misc/systemd-dotfiles
-	url = https://github.com/soystemd/dotfiles
+	url = git@github.com:folke/tokyonight.nvim
 [submodule "nvim-configs/yoda-dotfiles"]
 	path = nvim-configs/yoda-dotfiles
-	url = https://github.com/YodaEmbedding/dotfiles
+	url = git@github.com:YodaEmbedding/dotfiles
 [submodule "i3scripts/dopamine"]
 	path = i3scripts/dopamine
-	url = https://github.com/EllaTheCat/dopamine-2020
+	url = git@github.com:EllaTheCat/dopamine-2020
 [submodule "nvim-configs/ray-x"]
 	path = nvim-configs/ray-x
-	url = https://github.com/ray-x/nvim
+	url = git@github.com:ray-x/nvim
 [submodule "nvim-configs/nvim-dotfiles-kitty"]
 	path = nvim-configs/nvim-dotfiles-kitty
-	url = https://github.com/Nguyen-Hoang-Nam/nvim-dotfiles-kitty
+	url = git@github.com:Nguyen-Hoang-Nam/nvim-dotfiles-kitty
 [submodule "nvim-configs/bluz71"]
 	path = nvim-configs/bluz71
-	url = https://github.com/bluz71/dotfiles
+	url = git@github.com:bluz71/dotfiles
 [submodule "nvim-configs/LazyVim"]
 	path = nvim-configs/LazyVim
-	url = https://github.com/LazyVim/LazyVim
+	url = git@github.com:LazyVim/LazyVim
 [submodule "noice.nvim"]
 	path = noice.nvim
-	url = https://github.com/folke/noice.nvim
+	url = git@github.com:folke/noice.nvim
 [submodule "nvim-configs/cseickel"]
 	path = nvim-configs/cseickel
-	url = https://github.com/cseickel/dotfiles
+	url = git@github.com:cseickel/dotfiles
 [submodule "nvim-configs/rebelot"]
 	path = nvim-configs/rebelot
-	url = https://github.com/rebelot/dotfiles
+	url = git@github.com:rebelot/dotfiles
 [submodule "nvim-configs/Perigord-Nvim"]
 	path = nvim-configs/Perigord-Nvim
-	url = https://github.com/Trouble-Truffle/Perigord-Nvim
+	url = git@github.com:Trouble-Truffle/Perigord-Nvim
 [submodule "nvim-configs/lazy-nvim-config"]
 	path = nvim-configs/lazy-nvim-config
-	url = https://github.com/ziontee113/lazy-nvim-config
+	url = git@github.com:ziontee113/lazy-nvim-config
 [submodule "nvim-configs/ditsuke-dots"]
 	path = nvim-configs/ditsuke-dots
 	url = git@github.com:/ditsuke/dotfiles
@@ -93,10 +90,10 @@
 	url = https://gitlab.com/Poetician/rofi.git
 [submodule "rofi-themes/adi1090x"]
 	path = rofi-themes/adi1090x
-	url = https://github.com/adi1090x/rofi
+	url = git@github.com:adi1090x/rofi
 [submodule "rofi-themes/newmanls"]
 	path = rofi-themes/newmanls
-	url = https://github.com/newmanls/rofi-themes-collection
+	url = git@github.com:newmanls/rofi-themes-collection
 [submodule "nvim-configs/vim-polyglot"]
 	path = nvim-configs/vim-polyglot
 	url = git@github.com:sheerun/vim-polyglot
@@ -144,7 +141,7 @@
 	url = git@github.com:Shadorain/shadovim
 [submodule "nvim-configs/mfussenegger"]
 	path = nvim-configs/mfussenegger
-	url = https://github.com/mfussenegger/dotfiles
+	url = git@github.com:mfussenegger/dotfiles
 [submodule "nvim-configs/ecosse3"]
 	path = nvim-configs/ecosse3
 	url = git@github.com:ecosse3/nvim
@@ -175,3 +172,12 @@
 [submodule "nvim-configs/yutkat"]
 	path = nvim-configs/yutkat
 	url = git@github.com:yutkat/dotfiles
+[submodule "nvim-configs/oliver-configs"]
+	path = nvim-configs/oliver-configs
+	url = git@github.com:Oliver-Leete/Configs
+[submodule "nvim-configs/mobily"]
+	path = nvim-configs/mobily
+	url = git@github.com:mobily/.nvim
+[submodule "nvim-configs/matt-ftw"]
+	path = nvim-configs/matt-ftw
+	url = git@github.com:/Matt-FTW/dotfiles
