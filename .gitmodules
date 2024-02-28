@@ -181,3 +181,9 @@
 [submodule "nvim-configs/matt-ftw"]
 	path = nvim-configs/matt-ftw
 	url = git@github.com:/Matt-FTW/dotfiles
+[submodule "nvim-configs/mawkler"]
+	path = nvim-configs/mawkler
+	url = git@github.com:mawkler/nvim
+[submodule "nvim-configs/vseodov"]
+	path = nvim-configs/vseodov
+	url = git@github.com:vsedov/nvim
