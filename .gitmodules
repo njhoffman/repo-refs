@@ -187,3 +187,27 @@
 [submodule "nvim-configs/vseodov"]
 	path = nvim-configs/vseodov
 	url = git@github.com:vsedov/nvim
+[submodule "nvim-configs/vim-config"]
+	path = nvim-configs/vim-config
+	url = git@github.com:rafi/vim-config
+[submodule "nvim-configs/lvim"]
+	path = nvim-configs/lvim
+	url = git@github.com:lvim-tech/lvim
+[submodule "nvim-configs/nvim-lazyman"]
+	path = nvim-configs/nvim-lazyman
+	url = git@github.com:doctorfree/nvim-lazyman
+[submodule "nvim-configs/beekaboo"]
+	path = nvim-configs/beekaboo
+	url = git@github.com:Bekaboo/nvim
+[submodule "nvim-configs/willothy"]
+	path = nvim-configs/willothy
+	url = git@github.com:willothy/nvim-config
+[submodule "nvim-configs/nvimdots"]
+	path = nvim-configs/nvimdots
+	url = git@github.com:CharlesChiuGit/nvimdots
+[submodule "nvim-configs/omega-nvim"]
+	path = nvim-configs/omega-nvim
+	url = git@github.com:max397574/omega-nvim
+[submodule "nvim-configs/viewdoc"]
+	path = nvim-configs/viewdoc
+	url = git@github.com:vim-scripts/viewdoc
