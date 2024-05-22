@@ -211,3 +211,9 @@
 [submodule "nvim-configs/viewdoc"]
 	path = nvim-configs/viewdoc
 	url = git@github.com:vim-scripts/viewdoc
+[submodule "nvim-configs/kristijanhusak"]
+	path = nvim-configs/kristijanhusak
+	url = git@github.com:kristijanhusak/neovim-config
+[submodule "nvim-configs/yorickpeterse"]
+	path = nvim-configs/yorickpeterse
+	url = git@github.com:yorickpeterse/dotfiles
