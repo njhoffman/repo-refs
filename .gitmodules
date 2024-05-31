@@ -217,3 +217,9 @@
 [submodule "nvim-configs/yorickpeterse"]
 	path = nvim-configs/yorickpeterse
 	url = git@github.com:yorickpeterse/dotfiles
+[submodule "zsh-plugins/qmacro"]
+	path = zsh-plugins/qmacro
+	url = git@github.com:/qmacro/dotfiles
+[submodule "misc/devtainer"]
+	path = misc/devtainer
+	url = git@github.com:/WaylonWalker/devtainer
