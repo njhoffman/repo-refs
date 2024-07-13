@@ -223,3 +223,6 @@
 [submodule "misc/devtainer"]
 	path = misc/devtainer
 	url = git@github.com:/WaylonWalker/devtainer
+[submodule "fzf/fzf-bash-ide-resource"]
+	path = fzf/fzf-bash-ide-resource
+	url = git@github.com:rayiik/Fzf-bash-ide-resource
