@@ -226,3 +226,12 @@
 [submodule "fzf/fzf-bash-ide-resource"]
 	path = fzf/fzf-bash-ide-resource
 	url = git@github.com:rayiik/Fzf-bash-ide-resource
+[submodule "colorschemes/tmux-kanagawa"]
+	path = colorschemes/tmux-kanagawa
+	url = https://github.com/Nybkox/tmux-kanagawa
+[submodule "colorschemes/kanagawa-tmux2"]
+	path = colorschemes/kanagawa-tmux2
+	url = https://github.com/catgoose/kanagawa-tmux
+[submodule "colorschemes/catppuccin-palette"]
+	path = colorschemes/catppuccin-palette
+	url = https://github.com/catppuccin/palette
