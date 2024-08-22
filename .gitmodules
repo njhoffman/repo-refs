@@ -235,3 +235,18 @@
 [submodule "colorschemes/catppuccin-palette"]
 	path = colorschemes/catppuccin-palette
 	url = https://github.com/catppuccin/palette
+[submodule "nvim-configs/OXY2DEV-markdown"]
+	path = nvim-configs/OXY2DEV-markdown
+	url = git@github.com:OXY2DEV/nvim
+[submodule "chrome-extensions/chrome-extensions-samples"]
+	path = chrome-extensions/chrome-extensions-samples
+	url = git@github.com:/GoogleChrome/chrome-extensions-samples
+[submodule "puppeteer/examples-checkly"]
+	path = puppeteer/examples-checkly
+	url = git@github.com:checkly/puppeteer-examples
+[submodule "puppeteer/awesome-puppeteer"]
+	path = puppeteer/awesome-puppeteer
+	url = git@github.com:/transitive-bullshit/awesome-puppeteer
+[submodule "exercises/exercises/piotr-devops"]
+	path = exercises/exercises/piotr-devops
+	url = git@github.com:/Piotr1215/youtube
