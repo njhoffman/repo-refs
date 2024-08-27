@@ -250,3 +250,9 @@
 [submodule "dotfiles/tpope"]
 	path = dotfiles/tpope
 	url = git@github.com:/tpope/dotfiles
+[submodule "zsh-plugins/zimfw"]
+	path = zsh-plugins/zimfw
+	url = https://git.linux-help.org/psi-jack/zimfw
+[submodule "tmux/psi-jack"]
+	path = tmux/psi-jack
+	url = https://git.linux-help.org/psi-jack/tmux-config
