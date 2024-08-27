@@ -250,3 +250,6 @@
 [submodule "exercises/exercises/piotr-devops"]
 	path = exercises/exercises/piotr-devops
 	url = git@github.com:/Piotr1215/youtube
+[submodule "dotfiles/tpope"]
+	path = dotfiles/tpope
+	url = git@github.com:/tpope/dotfiles
