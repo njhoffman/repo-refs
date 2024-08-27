@@ -76,9 +76,6 @@
 [submodule "nvim-configs/Perigord-Nvim"]
 	path = nvim-configs/Perigord-Nvim
 	url = git@github.com:Trouble-Truffle/Perigord-Nvim
-[submodule "nvim-configs/lazy-nvim-config"]
-	path = nvim-configs/lazy-nvim-config
-	url = git@github.com:ziontee113/lazy-nvim-config
 [submodule "nvim-configs/ditsuke-dots"]
 	path = nvim-configs/ditsuke-dots
 	url = git@github.com:/ditsuke/dotfiles
