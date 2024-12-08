@@ -202,9 +202,6 @@
 [submodule "nvim-configs/nvimdots"]
 	path = nvim-configs/nvimdots
 	url = git@github.com:CharlesChiuGit/nvimdots
-[submodule "nvim-configs/omega-nvim"]
-	path = nvim-configs/omega-nvim
-	url = git@github.com:max397574/omega-nvim
 [submodule "nvim-configs/viewdoc"]
 	path = nvim-configs/viewdoc
 	url = git@github.com:vim-scripts/viewdoc
