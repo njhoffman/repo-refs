@@ -232,9 +232,6 @@
 [submodule "colorschemes/catppuccin-palette"]
 	path = colorschemes/catppuccin-palette
 	url = https://github.com/catppuccin/palette
-[submodule "nvim-configs/OXY2DEV-markdown"]
-	path = nvim-configs/OXY2DEV-markdown
-	url = git@github.com:OXY2DEV/nvim
 [submodule "chrome-extensions/chrome-extensions-samples"]
 	path = chrome-extensions/chrome-extensions-samples
 	url = git@github.com:/GoogleChrome/chrome-extensions-samples
