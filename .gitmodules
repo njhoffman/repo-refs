@@ -250,3 +250,6 @@
 [submodule "tmux/psi-jack"]
 	path = tmux/psi-jack
 	url = https://git.linux-help.org/psi-jack/tmux-config
+[submodule "nvim-configs/omega-nvim"]
+	path = nvim-configs/omega-nvim
+	url = git@github.com:max397574/omega-nvim
