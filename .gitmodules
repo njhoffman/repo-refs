@@ -253,3 +253,6 @@
 [submodule "nvim-configs/omega-nvim"]
 	path = nvim-configs/omega-nvim
 	url = git@github.com:max397574/omega-nvim
+[submodule "nvim-configs/wookayin"]
+	path = nvim-configs/wookayin
+	url = https://github.com/wookayin/dotfiles
