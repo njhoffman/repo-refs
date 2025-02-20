@@ -256,3 +256,6 @@
 [submodule "nvim-configs/wookayin"]
 	path = nvim-configs/wookayin
 	url = https://github.com/wookayin/dotfiles
+[submodule "dotfiles/qmacro"]
+	path = dotfiles/qmacro
+	url = https://github.com/qmacro/dotfiles
