@@ -262,3 +262,12 @@
 [submodule "HPI"]
 	path = HPI
 	url = https://github.com/purarue/HPI
+[submodule "mpv/mpv-history-daemon"]
+	path = mpv/mpv-history-daemon
+	url = https://github.com/purarue/mpv-history-daemon
+[submodule "mpv/bleanser"]
+	path = mpv/bleanser
+	url = https://github.com/purarue/bleanser
+[submodule "mpv/mpv-sockets"]
+	path = mpv/mpv-sockets
+	url = https://github.com/purarue/mpv-sockets
