@@ -259,3 +259,6 @@
 [submodule "dotfiles/qmacro"]
 	path = dotfiles/qmacro
 	url = https://github.com/qmacro/dotfiles
+[submodule "HPI"]
+	path = HPI
+	url = https://github.com/purarue/HPI
