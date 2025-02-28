@@ -271,3 +271,6 @@
 [submodule "mpv/mpv-sockets"]
 	path = mpv/mpv-sockets
 	url = https://github.com/purarue/mpv-sockets
+[submodule "dotfiles/purarue"]
+	path = dotfiles/purarue
+	url = https://github.com/purarue/dotfiles
