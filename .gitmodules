@@ -274,3 +274,6 @@
 [submodule "dotfiles/purarue"]
 	path = dotfiles/purarue
 	url = https://github.com/purarue/dotfiles
+[submodule "vscode/Dart-Code"]
+	path = vscode/Dart-Code
+	url = https://github.com/Dart-Code/Dart-Code
