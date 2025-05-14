@@ -277,3 +277,15 @@
 [submodule "vscode/Dart-Code"]
 	path = vscode/Dart-Code
 	url = https://github.com/Dart-Code/Dart-Code
+[submodule "nvim-configs/primalivet"]
+	path = nvim-configs/primalivet
+	url = https://github.com/primalivet/dotfiles
+[submodule "awesome/awesome-yazi"]
+	path = awesome/awesome-yazi
+	url = https://github.com/AnirudhG07/awesome-yazi
+[submodule "tmux/dvmfa90"]
+	path = tmux/dvmfa90
+	url = https://github.com/dvmfa90/tmux-scripts
+[submodule "tmux/kevinhwang91"]
+	path = tmux/kevinhwang91
+	url = https://github.com/kevinhwang91/fzf-tmux-script
