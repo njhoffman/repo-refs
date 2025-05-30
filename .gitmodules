@@ -289,3 +289,21 @@
 [submodule "tmux/kevinhwang91"]
 	path = tmux/kevinhwang91
 	url = https://github.com/kevinhwang91/fzf-tmux-script
+[submodule "dotfiles/theprimeagen"]
+	path = dotfiles/theprimeagen
+	url = https://github.com/ThePrimeagen/.dotfiles
+[submodule "fzf/fzf-scripts"]
+	path = fzf/fzf-scripts
+	url = https://github.com/DanielFGray/fzf-scripts
+[submodule "dotfiles/jab2870"]
+	path = dotfiles/jab2870
+	url = https://git.jonathanh.co.uk/jab2870/Dotfiles
+[submodule "tmux/pl643"]
+	path = tmux/pl643
+	url = https://github.com/pl643/tmux-scripts
+[submodule "tmux/tmux-fzf"]
+	path = tmux/tmux-fzf
+	url = https://github.com/sainnhe/tmux-fzf
+[submodule "dotfiles/willhb"]
+	path = dotfiles/willhb
+	url = https://codeberg.org/willhbr/dotfiles
