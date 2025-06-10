@@ -307,3 +307,9 @@
 [submodule "dotfiles/willhb"]
 	path = dotfiles/willhb
 	url = https://codeberg.org/willhbr/dotfiles
+[submodule "nvim-configs/valdezfomar"]
+	path = nvim-configs/valdezfomar
+	url = git@github.com:ValdezFOmar/.dotfiles
+[submodule "nvim-configs/theprimeagen"]
+	path = nvim-configs/theprimeagen
+	url = git@github.com:ThePrimeagen/.dotfiles
