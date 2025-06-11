@@ -313,3 +313,9 @@
 [submodule "nvim-configs/theprimeagen"]
 	path = nvim-configs/theprimeagen
 	url = git@github.com:ThePrimeagen/.dotfiles
+[submodule "nvim-configs/astrocore"]
+	path = nvim-configs/astrocore
+	url = git@github.com:/AstroNvim/astrocore.git
+[submodule "nvim-configs/hanipcode"]
+	path = nvim-configs/hanipcode
+	url = git@github.com:hanipcode/nvim
