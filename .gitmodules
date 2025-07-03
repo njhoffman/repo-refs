@@ -328,6 +328,9 @@
 [submodule "dotfiles/theprimeagen"]
 	path = dotfiles/theprimeagen
 	url = https://github.com/ThePrimeagen/.dotfiles
+[submodule "nvim-configs/theprimeagen"]
+	path = nvim-configs/theprimeagen
+	url = https://github.com/ThePrimeagen/.dotfiles
 [submodule "nvim-configs/JoseepAlviste"]
 	path = nvim-configs/JoseepAlviste
 	url = git@github.com:JoosepAlviste/dotfiles.git
