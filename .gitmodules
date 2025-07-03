@@ -79,9 +79,6 @@
 [submodule "nvim-configs/ditsuke-dots"]
 	path = nvim-configs/ditsuke-dots
 	url = git@github.com:/ditsuke/dotfiles
-[submodule "nvim-configs/JoseepAlviste"]
-	path = nvim-configs/JoseepAlviste
-	url = git@github.com:JoosepAlviste/dotfiles.git
 [submodule "rofi-themes/Poetician"]
 	path = rofi-themes/Poetician
 	url = https://gitlab.com/Poetician/rofi.git
@@ -289,9 +286,6 @@
 [submodule "tmux/kevinhwang91"]
 	path = tmux/kevinhwang91
 	url = https://github.com/kevinhwang91/fzf-tmux-script
-[submodule "dotfiles/theprimeagen"]
-	path = dotfiles/theprimeagen
-	url = https://github.com/ThePrimeagen/.dotfiles
 [submodule "fzf/fzf-scripts"]
 	path = fzf/fzf-scripts
 	url = https://github.com/DanielFGray/fzf-scripts
@@ -310,12 +304,21 @@
 [submodule "nvim-configs/valdezfomar"]
 	path = nvim-configs/valdezfomar
 	url = git@github.com:ValdezFOmar/.dotfiles
-[submodule "nvim-configs/theprimeagen"]
-	path = nvim-configs/theprimeagen
-	url = git@github.com:ThePrimeagen/.dotfiles
 [submodule "nvim-configs/astrocore"]
 	path = nvim-configs/astrocore
 	url = git@github.com:/AstroNvim/astrocore.git
 [submodule "nvim-configs/hanipcode"]
 	path = nvim-configs/hanipcode
 	url = git@github.com:hanipcode/nvim
+[submodule "nvim-configs/oxy2dev-ui"]
+	path = nvim-configs/oxy2dev-ui
+	url = git@github.com:OXY2DEV/ui.nvim
+[submodule "nvim-configs/luv"]
+	path = nvim-configs/luv
+	url = git@github.com:/luvit/luv
+[submodule "nvim-configs/libuv"]
+	path = nvim-configs/libuv
+	url = git@github.com:/libuv/libuv
+[submodule "nvim-configs/luvi"]
+	path = nvim-configs/luvi
+	url = git@github.com:/luvit/luvi
