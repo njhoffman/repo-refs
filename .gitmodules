@@ -319,3 +319,6 @@
 [submodule "nvim-configs/luvi"]
 	path = nvim-configs/luvi
 	url = git@github.com:/luvit/luvi
+[submodule "zinit"]
+	path = zinit
+	url = git@github.com:zdharma-continuum/zinit
