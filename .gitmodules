@@ -310,6 +310,9 @@
 [submodule "nvim-configs/oxy2dev-ui"]
 	path = nvim-configs/oxy2dev-ui
 	url = git@github.com:OXY2DEV/ui.nvim
+[submodule "nvim-configs/oxy2dev-markdown"]
+	path = nvim-configs/OXY2DEV-markdown
+	url = git@github.com:OXY2DEV/markview.nvim
 [submodule "nvim-configs/luv"]
 	path = nvim-configs/luv
 	url = git@github.com:/luvit/luv
@@ -322,3 +325,9 @@
 [submodule "zinit"]
 	path = zinit
 	url = git@github.com:zdharma-continuum/zinit
+[submodule "dotfiles/theprimeagen"]
+	path = dotfiles/theprimeagen
+	url = https://github.com/ThePrimeagen/.dotfiles
+[submodule "nvim-configs/JoseepAlviste"]
+	path = nvim-configs/JoseepAlviste
+	url = git@github.com:JoosepAlviste/dotfiles.git
