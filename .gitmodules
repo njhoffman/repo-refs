@@ -1,6 +1,3 @@
-[submodule "ricing/vicyos-build-folder"]
-	path = ricing/vicyos-build-folder
-	url = git@github.com:felipendc/vicyos-build-folder
 [submodule "ricing/ZenithDS"]
 	path = ricing/ZenithDS
 	url = git@github.com:ZenithDS/dotconfig
