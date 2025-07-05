@@ -334,3 +334,6 @@
 [submodule "nvim-configs/JoseepAlviste"]
 	path = nvim-configs/JoseepAlviste
 	url = git@github.com:JoosepAlviste/dotfiles.git
+[submodule "dotfiles/olimorris"]
+	path = dotfiles/olimorris
+	url = https://github.com/olimorris/dotfiles
