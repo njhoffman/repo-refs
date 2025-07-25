@@ -337,3 +337,6 @@
 [submodule "dotfiles/olimorris"]
 	path = dotfiles/olimorris
 	url = https://github.com/olimorris/dotfiles
+[submodule "workflows/spotify-web-api"]
+	path = workflows/spotify-web-api
+	url = https://github.com/sonallux/spotify-web-api
