@@ -340,3 +340,6 @@
 [submodule "workflows/spotify-web-api"]
 	path = workflows/spotify-web-api
 	url = https://github.com/sonallux/spotify-web-api
+[submodule "tmux/tmux-config"]
+	path = tmux/tmux-config
+	url = https://github.com/samoshkin/tmux-config
