@@ -343,3 +343,15 @@
 [submodule "tmux/tmux-config"]
 	path = tmux/tmux-config
 	url = https://github.com/samoshkin/tmux-config
+[submodule "tmux/listx-syscfg"]
+	path = tmux/listx-syscfg
+	url = https://github.com/listx/syscfg
+[submodule "vim-keybindings-everywhere-the-ultimate-list"]
+	path = vim-keybindings-everywhere-the-ultimate-list
+	url = https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list
+[submodule "go-tui/zeichenwerk"]
+	path = go-tui/zeichenwerk
+	url = https://github.com/tekugo/zeichenwerk
+[submodule "scripts/ximenesyuri"]
+	path = scripts/ximenesyuri
+	url = https://github.com/ximenesyuri/drafts
